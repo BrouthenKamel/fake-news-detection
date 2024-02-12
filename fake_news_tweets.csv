@@ -1,4 +1,4 @@
-Tweet;Class (0=Non-Fake, 1=Fake)
+tweet;label
 Breakthrough in AI technology enables better prediction of weather patterns. #TechNews;0
 Astronomers capture the most detailed image of a distant galaxy. #SpaceExploration;0
 Groundbreaking treatment for heart disease enters clinical trials. #HealthcareInnovation;0
